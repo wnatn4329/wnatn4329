@@ -1,0 +1,7 @@
+textarea { resize: none; }
+
+.board-table-tr-height{height:300px;}
+.board-table-height{height:500px;}
+.board-msg-default-color{color:#000099;}
+.board-msg-error-color{color:red;}
+.board-required{color:red;}
